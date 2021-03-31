@@ -9,7 +9,7 @@ export default function Home() {
   <p>A cost-effective cloud based phone system, giving your business greater flexibility and control</p>
 
 <About/>
-<SerVices/>
+<Services/>
 <Products/>
   </div>
 }
