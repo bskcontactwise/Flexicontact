@@ -3,6 +3,7 @@ import About from "./about"
 import Products from "./products"
 import Services from "./services"
 import Navbar from 'react-bootstrap/Navbar'
+import Nav from 'react-bootstrap/Nav'
 
 export default function Home() {
   return <>
