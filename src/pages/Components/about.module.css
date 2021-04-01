@@ -1,0 +1,18 @@
+.imgfliud{
+    width: 100%;
+}
+.page{
+    background-color: rgb(255, 153, 0);
+    font-size:16px;
+    font-family: 'Inter', sans-serif;
+}
+
+img{
+    width:100%;
+    height: auto
+}
+
+.card{
+    border: solid 1px #fefefe;
+    font-size: 14px;
+}

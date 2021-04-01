@@ -13,9 +13,15 @@ module.exports = {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
           fonts: [
-              `poppins:300,400,500,600,700`       
+              `inter:300,400,500,600,700`       
           ], display: 'swap'       
       }
-  }
+  },
+  {
+    resolve: `gatsby-plugin-styled-components`,
+    options: {
+      // Add any options here
+    },
+  },
   ],
 }
