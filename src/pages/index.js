@@ -20,8 +20,12 @@ export default function Home() {
 
 
   </div>
+  <div className="container">
+
   
-  <Card border="primary" style={{ width: '18rem' }}>
+  <diV className="row">
+    <div className="col-lg-4">
+    <Card border="primary" style={{ width: '18rem' }}>
     <Card.Header>Header</Card.Header>
     <Card.Body>
       <Card.Title>Primary Card Title</Card.Title>
@@ -31,7 +35,10 @@ export default function Home() {
       </Card.Text>
     </Card.Body>
   </Card>
-  <Card border="primary" style={{ width: '18rem' }}>
+
+    </div>
+    <div className="col-lg-4">
+    <Card border="primary" style={{ width: '18rem' }}>
     <Card.Header>Header</Card.Header>
     <Card.Body>
       <Card.Title>Primary Card Title</Card.Title>
@@ -41,7 +48,11 @@ export default function Home() {
       </Card.Text>
     </Card.Body>
   </Card>
-  <Card border="primary" style={{ width: '18rem' }}>
+
+</div>
+<div className="col-lg-4">
+
+<Card border="primary" style={{ width: '18rem' }}>
     <Card.Header>Header</Card.Header>
     <Card.Body>
       <Card.Title>Primary Card Title</Card.Title>
@@ -51,6 +62,13 @@ export default function Home() {
       </Card.Text>
     </Card.Body>
   </Card>
+
+    </div>
+
+
+  </diV>
+  </div>
+ 
   </Layout>
   </>
 }
