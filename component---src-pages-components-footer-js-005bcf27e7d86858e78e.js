@@ -1,0 +1,2 @@
+(self.webpackChunkflexicontact=self.webpackChunkflexicontact||[]).push([[215],{9069:function(e,t,l){"use strict";l.r(t);var n=l(7294);t.default=function(){return n.createElement("div",null,n.createElement("p",null," (C) Copyright 2010 - 2017 FlexiContact Ltd. All rights reserved"))}}}]);
+//# sourceMappingURL=component---src-pages-components-footer-js-005bcf27e7d86858e78e.js.map
