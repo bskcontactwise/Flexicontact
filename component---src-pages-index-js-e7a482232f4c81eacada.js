@@ -1,2 +1,0 @@
-(self.webpackChunkflexicontact=self.webpackChunkflexicontact||[]).push([[678],{704:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return c}});var l=n(294);function c(){return l.createElement("div",null,l.createElement("h1",null,"Flexicontact"),l.createElement("h2",null,"Hosted Voice for your Business"),l.createElement("p",null,"A cost-effective cloud based phone system, giving your business greater flexibility and control"))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-e7a482232f4c81eacada.js.map

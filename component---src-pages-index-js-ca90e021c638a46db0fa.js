@@ -1,2 +1,0 @@
-(self.webpackChunkflexicontact=self.webpackChunkflexicontact||[]).push([[678],{704:function(t,e,n){"use strict";n.r(e),n.d(e,{default:function(){return u}});var c=n(294);function u(){return c.createElement("div",null,"FlexiContact")}}}]);
-//# sourceMappingURL=component---src-pages-index-js-ca90e021c638a46db0fa.js.map

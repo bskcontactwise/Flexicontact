@@ -1,0 +1,2 @@
+(self.webpackChunkflexicontact=self.webpackChunkflexicontact||[]).push([[789],{7963:function(e,t,c){"use strict";c.r(t);var r=c(5444),n=c(7294);t.default=function(){return n.createElement("div",null,n.createElement(r.rU,{to:"/"},"Home"),n.createElement(r.rU,{to:"/products"},"Products"),n.createElement(r.rU,{to:"/about"},"About"),n.createElement(r.rU,{to:"/services"},"Services"))}}}]);
+//# sourceMappingURL=component---src-pages-components-navbar-js-f8aa154487e2dd3f1e3c.js.map

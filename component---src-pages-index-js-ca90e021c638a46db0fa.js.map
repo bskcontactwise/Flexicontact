@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://flexicontact/./src/pages/index.js"],"names":["Home"],"mappings":"0KAEe,SAASA,IACtB,OAAO","file":"component---src-pages-index-js-ca90e021c638a46db0fa.js","sourcesContent":["import React from \"react\"\r\n\r\nexport default function Home() {\r\n  return <div>FlexiContact</div>\r\n}\r\n"],"sourceRoot":""}
